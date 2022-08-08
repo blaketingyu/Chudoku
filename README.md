@@ -2,7 +2,7 @@
 
 ![Preview](https://github.com/blaketingyu/chudoku-webapp-php/blob/main/chudoku.com/Home%20page.jpg)
 
-Chudoku is a ECommerce web interface that allows users to purchase Japanese related items such as Figurines, Cards & Apparels built using vanilla PHP, HTML, CSS and JavaScript.
+Chudoku is a ECommerce web interface that allows users to purchase Japanese related items such as Figurines, Cards & Apparels built using vanilla PHP, HTML, CSS, JavaScript and MySQL.
 
 Some of the features include:
 
