@@ -1,0 +1,51 @@
+div a p {
+	float:left;
+	font-family: Raleway;
+	font-size: 25px;
+	margin-left: 150px;
+	margin-bottom: 10px;
+	color: black;
+	}
+
+
+#warp {
+	width:1300px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.body-background {
+	background-color:pink;
+	height: auto;
+	width: 1300px;
+	
+	
+	
+}
+
+.title {
+	padding-top: 5px;
+    padding-bottom: 5px;
+	font-family: Raleway;
+	font-size: 50px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.content {
+}
+
+td {
+	padding-top: 20px;
+	font-family: Raleway;
+	font-size:20px;
+}
+
+input {
+	font-size:20px;
+}
+.errmsg {
+	font-family: Raleway;
+	color: red;
+	margin-left: 450px;
+}

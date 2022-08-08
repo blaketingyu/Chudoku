@@ -1,0 +1,190 @@
+p { 
+	float:left;
+	margin-left:50px;
+	font-family: Raleway;
+	font-size: 25px;
+	margin-bottom: 10px;
+	color:black;
+}
+#warp {
+	width:1300px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.detailsheader {
+	clear:both;
+	float:left;
+	position:relative;
+	width:100%;
+	margin-top:10px;
+	line-height:50px;
+}
+.detailsheader  p{
+	font-size:40px;
+	left: 470px;
+	float: left;
+	position:relative;
+	
+}
+
+.details {
+	clear:both;
+	position:relative;
+	width:900px;
+	height: 300px;
+	line-height:100px;
+	left: 300px;
+	background-color:#F5F1F0;
+}
+.addressdetails {
+	clear:both;
+	position:relative;
+	width:1100px;
+	height: 250px;
+	line-height:100px;
+	left: 150px;
+	background-color:#F5F1F0;
+}
+.addressdetails td {
+	font-family: Raleway;
+	font-size: 20px;
+	margin-left:50px;
+	
+
+}
+.details td {
+	font-family: Raleway;
+	font-size: 20px;
+	margin-left:50px;
+
+}
+hr {
+	width:100%;
+	position: relative;
+	clear:both;
+}
+
+li {
+    display: inline-block;
+    vertical-align: top;
+    height: 150px;
+    width: 100px;
+	margin-right: 120px;
+}
+td {
+	padding-right:50px;
+}
+th {
+	font-family:raleway;
+	padding-right:120px;
+	font-size:20px;
+}
+button {
+	height:50px;
+	width: 100px;
+	color: white;
+	background-color: black;
+	clear:both;
+	float: right;
+	vertical-align: top;
+	margin-right:200px;
+}
+
+.editbutton a {
+	height:50px;
+	width: 100px;
+	color: white;
+	border-radius: 5px;
+	background-color: black;
+	display: block;
+	float: right;
+	text-decoration: none;
+	vertical-align: top;
+	margin-right:150px;
+	font-family: Raleway;
+	text-align:center;
+	font-weight: bold;
+	 border-radius: 5px;
+	 padding-top:10px;
+}
+
+input {
+	position:relative;
+	padding-right:20px;
+}
+.whitespace {
+	height:50px;
+}
+.errmsg {
+	font-family: Raleway;
+	color: red;
+	margin-left: 450px;
+}
+.dropbtn {
+	background-color: white;
+    color: black;
+    font-size: 25px;
+    border: none;
+    cursor: pointer;
+	font-family: Raleway;
+	margin-left:90px;
+	width: auto;
+	margin-top:10px;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 200px;
+	margin-left: 90px;
+	
+	
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+	font-family:Raleway;
+    display: block;
+}
+
+.dropdown-content a:hover {
+	background-color: #FFEEEB;
+	}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #FFEEEB;
+}
+.smaller p {
+	margin-left: 70px;
+}
+.orderdetails td {
+	font-family:Raleway;
+	font-size:20px;
+	
+}
+.orderdetails th {
+
+	font-family:Raleway;
+	font-weight:bold;
+	
+}
+.orderdetails tr:hover{
+	background-color: #f5f5f5;
+}
+.orderdetails tr:nth-child(even){
+	background-color: #F08080;
+}
+

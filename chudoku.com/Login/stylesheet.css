@@ -1,0 +1,66 @@
+p {
+	float:left;
+	font-family: Raleway;
+	font-size: 25px;
+	margin-left: 150px;
+	margin-bottom: 10px;
+	color: black;
+	}
+
+#warp {
+	width:1300px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.space {
+	width:40%;
+	height: 500px;
+	background-color: pink;
+	float: left;
+}
+
+.words {
+	margin-left: 20px;
+	margin-top: 50px;
+	font-size: 25px;
+	font-family: Raleway;
+}
+
+.errmsg {
+	font-family: Arial;
+	color: red;
+	margin-right: 120px;
+}
+
+.g-recaptcha {
+	margin-top: 10px;
+}
+
+.button1 {
+	margin-left:250px;
+	margin-top: 10px;
+	height: 40px;
+	width: 150px;
+	font-family: Raleway;
+	font-size: 18px;
+	background-color: black;
+	color: white;
+}
+
+h3 {
+	font-family: Raleway;
+	margin-top: 40px;
+	
+}
+
+.button2 {
+	font-family: Raleway;
+	background-color: black;
+	color: white;
+	height: 100px;
+	width: 300px;
+	font-size: 30px;
+}
+
+

@@ -1,0 +1,106 @@
+a p {
+	float:left;
+	font-family: Raleway;
+	font-size: 20px;
+	margin-left: 150px;
+	margin-bottom: 10px;
+	color: black;
+}
+h2 {
+	float:left;
+	font-family: Raleway;
+	font-size: 20px;
+	margin-left: 10px;
+	color: black;
+}
+.side {
+	float:left;
+	width:250px;
+	height:400px;
+	margin: 5px 5px 5px 5px;
+}
+#container {
+	clear:both;
+}
+#directorybar {
+	width:100%;
+	height:250px;
+}
+.right {
+	float:right;
+	margin-right:150px;
+}
+.center {
+	float:left;
+	margin-left:10px;
+}
+button {
+	height:75px;
+	width: 150px;
+	color: black;
+	background-color: white;
+	border-style: solid;
+	border-width: 3px;
+	border-color: black;
+}
+.right img {
+	float:right;
+	margin-right:200px;
+}
+.description {
+	position:absolute;
+	font-weight:400;
+	margin-top:50px;
+	width:400px;
+}
+.smaller p {
+	margin-left: 80px;
+}
+.dropbtn {
+	background-color: white;
+    color: black;
+    font-size: 25px;
+    border: none;
+    cursor: pointer;
+	font-family: Raleway;
+	margin-left:90px;
+	width: auto;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 200px;
+	margin-left: 90px;
+	
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+	font-family:Raleway;
+    display: block;
+}
+
+.dropdown-content a:hover {
+	background-color: #FFEEEB;
+	}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #FFEEEB;
+}
+
+	
+
+

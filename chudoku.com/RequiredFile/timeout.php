@@ -1,0 +1,3 @@
+<?php	
+	$SessionTimingBySecond = 300;
+?>
